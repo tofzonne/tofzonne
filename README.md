@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- ⚡ Fun fact **I think am useless**
+- ⚡ Fun fact **I think I'm useless**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
