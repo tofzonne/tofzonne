@@ -31,8 +31,8 @@
 
 # 📊 GitHub Stats
 
-![Commit Stats](https://github-readme-stats.vercel.app/api?username=tofzonne&show_icons=true&hide=contribs&cache_seconds=86400&theme=tokyonight&rank_icon=github&show=prs_merged)
-![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=tofzonne&theme=tokyonight&hide_border=false)
+![Commit Stats](https://github-readme-stats.vercel.app/api?username=tofzonne&show_icons=true&hide=contribs&cache_seconds=86400&theme=tokyonight&rank_icon=github&show=prs_merged)<br/>
+![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=tofzonne&theme=tokyonight&hide_border=false)<br/>
 ![Most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=tofzonne&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
