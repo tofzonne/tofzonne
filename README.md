@@ -1,13 +1,12 @@
+
 # Hello 👋, I'm Tofzonne
 
-**A passionate developer from Earth 🌏.**
-
-🔭 I’m currently working on Instakit<br>🌱 I’m currently learning Python<br>🤝 I’m looking for help with Instakit<br>💬 Ask me about Ai, Python
+**A passionate programmer from Earth 🌏.**
 
 ## 🌐 Socials
 
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/tofzonne)](https://x.com/tofzonne)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tofzonne)
-[![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tofzonne)
 
 # 💻 Tech Stack
 
